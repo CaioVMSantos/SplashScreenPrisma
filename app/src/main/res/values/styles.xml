@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema padrão sem modificações, herda do tema Material -->
+    <style name="Theme.SplashScreenPrismaVi" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Fundo padrão do Android -->
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+</resources>

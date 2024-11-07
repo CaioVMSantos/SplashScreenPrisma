@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Theme.SplashScreenPrismaVi" parent="android:Theme.Material.Light.NoActionBar" >
-        <item name="android:windowSplashScreenBackground">#44b7eb</item>
+    <style name="Mytheme.Splash" parent = "Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowActionBar">true</item>
     </style>
+
 </resources>
